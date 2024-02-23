@@ -1,0 +1,4 @@
+name: antiSpamPlugin
+version: '0.1'
+main: com.eremin.antispamplugin.Main
+api-version: '1.20'
